@@ -18,3 +18,5 @@ Some data cleaning steps were applied to make the dataset proper for analysis wi
 ### measure column: one measure column was created to aid result.
 ### columns: removal of columns not needed.
 ### columns cleaning: trim and clean were used in some columns to aid result.
+<img width="809" height="440" alt="image" src="https://github.com/user-attachments/assets/81216b2a-02ee-4d3f-9007-216d317ee96a" />
+<img width="555" height="326" alt="image" src="https://github.com/user-attachments/assets/c12194d3-b297-47fd-8530-6837495a025c" />
