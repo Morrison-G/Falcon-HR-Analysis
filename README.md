@@ -24,6 +24,7 @@ Some data cleaning steps were applied to make the dataset proper for analysis wi
 <img width="819" height="474" alt="image" src="https://github.com/user-attachments/assets/62616e1a-7c13-4451-b909-a459c981db49" />
 <img width="819" height="473" alt="image" src="https://github.com/user-attachments/assets/9faa236f-dc4f-40a2-8d24-7134655fd5d7" />
 <img width="809" height="465" alt="image" src="https://github.com/user-attachments/assets/d8d1ddbe-49f3-4d36-880d-30fae805aed1" />
+
 > ## Key Business Questions Answered
 1.	Total number of Employee that has worked with the company?
 
@@ -31,11 +32,13 @@ Create a card visual:
 
     - Value: Sum of employee count
 
+
 2.	Total number of current Employee?
 
 Create a card visual:
 
    - Value: Sum of current employee count
+
 
 3.	Total number of Attrition?
 
@@ -55,11 +58,13 @@ Create a card visual:
 
     - Value: Sum of Rate of attrition count
 
+
 5.	Average age of staffs in the company?
 
 Create a card visual:
 
     - Value: Average of age count
+
 
 6.	Attrition count grouped by department?
 
@@ -68,6 +73,7 @@ Create a pie chart visual:
 - Axis: Department
 
     - Value: Attrition count
+
 
 7.	Attrition count by Age group & gender?
 
@@ -80,14 +86,13 @@ Create a stacked column visual:
 - y Axis: sum of attrition count
 - legend: Gender
 
+
 8.	Education field by attrition?
 
 Create a cluster bar chart visual:
 
 - x Axis: sum of attrition count
 - y Axis: education field
-
-
 
 
 9.	Using matrix to summarize job satisfactory rating?
@@ -98,6 +103,7 @@ Create a matrix visual:
 - Columns: job satisfaction
 - Value: Sum of attrition count
 
+
 10.	Attrition count by age across department?
 
 Create a stacked column visual:
@@ -105,6 +111,7 @@ Create a stacked column visual:
 - x Axis: age 
 - y Axis: sum of attrition count
 - legend: department
+
 
 11.	Attrition rate by gender across different age group?
 
